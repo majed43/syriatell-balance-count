@@ -11,3 +11,8 @@ body{
     flex-direction: column;
     justify-content: space-around;
 }
+@media (max-width:800px) {
+    .container{
+        padding:20% 30px
+    }
+}
