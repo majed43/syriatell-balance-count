@@ -12,7 +12,10 @@ body{
     justify-content: space-around;
 }
 @media (max-width:800px) {
+    body{
+        height: 50vh;
+    }
     .container{
-        padding:20% 30px
+        padding:0% 30px
     }
 }
